@@ -27,7 +27,7 @@
       "type": "string",
       "required": true
     },
-    "users": {
+    "organizers": {
       "type": [
         "string"
       ],
