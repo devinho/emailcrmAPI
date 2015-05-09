@@ -1,0 +1,41 @@
+{
+  "name": "organization",
+  "plural": "organizations",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "contacts": {
+      "type": [
+        "string"
+      ],
+      "required": true
+    },
+    "events": {
+      "type": [
+        "string"
+      ],
+      "required": true
+    },
+    "logo_url": {
+      "type": "string",
+      "required": true
+    },
+    "users": {
+      "type": [
+        "string"
+      ],
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

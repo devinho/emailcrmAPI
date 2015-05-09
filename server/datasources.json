@@ -1,0 +1,7 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "mongodb",
+    "url": "mongodb://user:password@ds061148.mongolab.com:61148/emailcrmdb"
+  }
+}
