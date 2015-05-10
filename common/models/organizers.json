@@ -18,8 +18,7 @@
     "organizations": {
       "type": [
         "string"
-      ],
-      "required": true
+      ]
     }
   },
   "validations": [],

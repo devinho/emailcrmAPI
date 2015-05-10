@@ -14,14 +14,12 @@
     "contacts": {
       "type": [
         "string"
-      ],
-      "required": true
+      ]
     },
     "events": {
       "type": [
         "string"
-      ],
-      "required": true
+      ]
     },
     "logo_url": {
       "type": "string",
@@ -30,8 +28,7 @@
     "organizers": {
       "type": [
         "string"
-      ],
-      "required": true
+      ]
     }
   },
   "validations": [],

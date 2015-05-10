@@ -14,8 +14,7 @@
     "initialEmailFor": {
       "type": [
         "string"
-      ],
-      "required": true
+      ]
     },
     "logo_url": {
       "type": "string",
