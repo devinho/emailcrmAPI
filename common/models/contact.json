@@ -11,6 +11,10 @@
       "type": "string",
       "required": true
     },
+    "initialEmailSent": {
+      "type": "boolean",
+      "required": true
+    },
     "logo_url": {
       "type": "string",
       "required": true
