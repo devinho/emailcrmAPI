@@ -29,7 +29,7 @@
       "required": true
     },
     "notes":{
-      "type": "string"
+      "type": "object"
     }
   },
   "validations": [],
