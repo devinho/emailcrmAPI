@@ -24,6 +24,10 @@
     "email_template": {
       "type": "string",
       "required": true
+    },
+    "organization":{
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
